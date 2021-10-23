@@ -1,0 +1,14 @@
+{
+  "name": "sourcemap-transform",
+  "version": "1.0.0",
+  "description": "According to the line number and column number of the exception stack information and the sourcemap file, find the corresponding line and column number in the source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  }
+}
